@@ -1,0 +1,19 @@
+.task-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  .task-item_text {
+    display: flex;
+    min-width: 300px;
+    margin-right: 30px;
+  }
+
+  .task-item_data {
+    display: flex;
+    align-items: center;
+    height: 20px;
+    border-radius: 7px;
+    padding-right: 2px;
+  }
+}

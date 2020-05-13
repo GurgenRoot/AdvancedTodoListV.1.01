@@ -1,0 +1,24 @@
+.text {
+  text-decoration: line-through;
+  font-weight: 500;
+  cursor: pointer;
+  align-items: center;
+
+}
+.task-completed_time {
+  height: 20px;
+  display: flex;
+  align-items: center;
+  border-radius: 7px;
+  padding-right: 5px;
+  margin-left: 20px;
+}
+
+.task-completed_icon {
+  margin-right: 16px;
+}
+
+.task-item_text {
+  text-align: center;
+  align-items: center;
+}
